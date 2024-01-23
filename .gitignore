@@ -1,2 +1,6 @@
+# FILES
 views/styles.css
+.env
+
+# FOLDERS
 node_modules/
